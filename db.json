@@ -1,0 +1,17 @@
+{
+  "dsclosing": 2525,
+  "euclosing": 15675,
+  "logs": [
+    {
+      "who": "euclosing",
+      "amount": 3000,
+      "datetime": "Fri Jan 03 2020 10:34:53 GMT+0500 (Pakistan Standard Time)"
+    },
+    {
+      "who": "dsclosing",
+      "amount": 2000,
+      "datetime": "Fri Jan 03 2020 10:35:05 GMT+0500 (Pakistan Standard Time)"
+    }
+  ],
+  "esclosing": null
+}

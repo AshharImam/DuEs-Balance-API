@@ -1,0 +1,18 @@
+
+{
+    "version": 2,
+    "name":"dues",
+    "builds": [{ "src": "server.js", "use": "@now/node-server" }],
+    "routes": [
+      {
+        "src": "/Add",
+        "dest": "/server.js",
+        "methods": ["POST"]
+      },
+      {
+        "src": "/",
+        "dest": "/server.js",
+        "methods": ["GET"]
+      }
+    ]
+  }
